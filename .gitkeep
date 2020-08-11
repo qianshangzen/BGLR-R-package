@@ -1,0 +1,5 @@
+man/
+R/
+tests/
+tinydata/
+vignettes/
