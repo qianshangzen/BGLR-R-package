@@ -7,3 +7,4 @@ To install the package, run
 library(devtools)
 install()
 ```
+More details, please read blrf-vignette.html in vignette folder.
